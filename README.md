@@ -6,7 +6,7 @@ Welcome! I’m Roney Karki, a passionate builder of intelligent, data-driven app
 
 ## 🧠 About Me
 
-With 4+ years of experience in software and content development — and 2+ years focused in AI/ML — I specialize in:
+With months in software and content development —  focused in AI/ML — I specialize in:
 - Full-stack web development (React, Node.js, Firebase)
 - AI-powered systems (ML models, GPT-based tools)
 - Creative automation (faceless YouTube tools, generative design)

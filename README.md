@@ -64,6 +64,4 @@ I aim to contribute to forward-thinking teams and eventually build global-scale 
 - ✉️ roneykarki011@gmail.com  
 - 🌍 Kathmandu, Nepal
 
----
-
-> ⚡ _"Start small. Think AI. Build global."_  
+--- 

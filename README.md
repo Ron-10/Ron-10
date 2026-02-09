@@ -1,6 +1,14 @@
-# 👨‍💻 Roney Karki – AI-Powered Developer | Python & Web Engineer
+#👨‍💻 Hi, I am Roney 
 
-Welcome! I’m Roney Karki, a passionate builder of intelligent, data-driven applications — combining artificial intelligence, modern web technologies, and design-thinking to craft real-world solutions.
+Welcome to my GitHub profile! I'm a passionate developer specializing in building AI-driven applications, combining cutting-edge technologies like artificial intelligence, web development, and data engineering to create innovative solutions that solve real-world problems.
+
+🌟 What I Do:
+
+AI Development: Creating intelligent solutions with machine learning and deep learning techniques.
+
+Web Development: Building modern, scalable web applications using the latest web technologies.
+
+Data Science & Engineering: Leveraging Python, Pandas, NumPy, and other tools to manipulate and analyze data
 
 
 ## 🌐 Socials:
@@ -16,4 +24,4 @@ Welcome! I’m Roney Karki, a passionate builder of intelligent, data-driven app
 ---
 [![](https://visitcount.itsvg.in/api?id=Ron-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

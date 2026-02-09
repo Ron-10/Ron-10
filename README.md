@@ -2,66 +2,18 @@
 
 Welcome! I’m Roney Karki, a passionate builder of intelligent, data-driven applications — combining artificial intelligence, modern web technologies, and design-thinking to craft real-world solutions.
 
----
 
-## 🧠 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/roney.karki.2025) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i__am_ron) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roney-karki-9b2002221) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@i_am_ron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roneykarki011@gmail.com) 
 
-With months in software and content development —  focused in AI/ML — I specialize in:
-- Full-stack web development (React, Node.js, Firebase)
-- AI-powered systems (ML models, GPT-based tools)
-- Creative automation (faceless YouTube tools, generative design)
-- Building SaaS products from scratch
-
-💡 I'm driven by the idea that **AI should be practical, elegant, and human-enhancing.**  
-📍 Based in Kathmandu, Nepal | 🌍 Building for global scale
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ron-10&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ron-10&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ron-10&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ron-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects
-
-### 🤖 AI & NLP: Smart Chatbot from Any PDF
-> An AI-powered chatbot that allows users to upload any PDF document and interact with it using natural language.  
-Built using **LangChain**, **OpenAI**, and modern document parsing techniques to enable contextual, intelligent conversation.  
-`LangChain | OpenAI API | PDF Parsing | NLP | Streamlit`
-
-### ⚽ Football Player Rating Prediction System
-> Used ensemble ML models (Random Forest, XGBoost, SVR) to predict player ratings  
-`Python | pandas | scikit-learn | Sofifa dataset`
-
----
-
-## 📚 Certifications & Learning
-
-- Generative AI Mastermind – Outskill  
-- Prompt Engineering Professional – IMTF  
-- 5-Day ML Bootcamp – Coding Ninjas  
-- MERN Stack Certification – Himalaya College of Engineering  
-- HTML & CSS Certification – Himalaya College of Engineering  
-- AWS Node Runners – Binance Academy  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, JavaScript, HTML/CSS, Flutter  
-**Frameworks & Tools:** React, Node.js, Firebase, Tailwind CSS, Git, Jupyter Notebook  
-**ML Libraries:** NumPy, pandas, scikit-learn  
-**Architecture:** Component-Based, MVC, Agile, Test-Driven Development  
-
----
-
-## 🎯 Career Objective
-
-> To lead innovative, AI-first projects that solve real problems.  
-I aim to contribute to forward-thinking teams and eventually build global-scale AI tools and platforms that empower others.
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/roney-karki-9b2002221/)
-- 🐙 [GitHub](https://github.com/Ron-10)
-- ✉️ roneykarki011@gmail.com  
-- 🌍 Kathmandu, Nepal
-
---- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

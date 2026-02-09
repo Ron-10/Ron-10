@@ -1,4 +1,4 @@
-# 👨‍💻 **Hi, I am Roney ** 
+# 👨‍💻 Hi, I am Roney 
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in building **AI-driven applications**, combining cutting-edge technologies like **artificial intelligence**, **web development**, and **data engineering** to create innovative solutions that solve real-world problems.
 
